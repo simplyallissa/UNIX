@@ -1,0 +1,34 @@
+0 By SIGALARM:
+	Current date and time: 2023-04-28 Friday 11:12:42 PM, MDT
+	Until 2023 Christmas Day : 240 Days, 1 Hours, 47 Minutes, 18 Seconds
+	Total number of seconds: 20742438 seconds
+1 By SIGALARM:
+	Current date and time: 2023-04-28 Friday 11:12:45 PM, MDT
+	Until 2023 Christmas Day : 240 Days, 1 Hours, 47 Minutes, 15 Seconds
+	Total number of seconds: 20742435 seconds
+2 By SIGINT:
+	Current date and time: 2023-04-28 Friday 11:12:52 PM, MDT
+	Until 2023 Independence Day : 66 Days, 0 Hours, 47 Minutes, 8 Seconds
+	Total number of seconds: 5705228 seconds
+Quit (y/n)?
+ x
+Quit (y/n)?
+ n
+3 By SIGALARM:
+	Current date and time: 2023-04-28 Friday 11:13:06 PM, MDT
+	Until 2023 Christmas Day : 240 Days, 1 Hours, 46 Minutes, 54 Seconds
+	Total number of seconds: 20742414 seconds
+4 By SIGINT:
+	Current date and time: 2023-04-28 Friday 11:13:07 PM, MDT
+	Until 2023 Independence Day : 66 Days, 0 Hours, 46 Minutes, 53 Seconds
+	Total number of seconds: 5705213 seconds
+Quit (y/n)?
+ n
+5 By SIGALARM:
+	Current date and time: 2023-04-28 Friday 11:13:16 PM, MDT
+	Until 2023 Christmas Day : 240 Days, 1 Hours, 46 Minutes, 44 Seconds
+	Total number of seconds: 20742404 seconds
+6 By SIGINT:
+	Current date and time: 2023-04-28 Friday 11:13:17 PM, MDT
+	Until 2023 Independence Day : 66 Days, 0 Hours, 46 Minutes, 43 Seconds
+	Total number of seconds: 5705203 seconds
